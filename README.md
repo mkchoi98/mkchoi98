@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - "동영상 인코딩 및 디코딩 장치와 방법", PCT/KR2023/015226
 - "영상 부호화/복호화 방법 및 장치", KR-Application No. 10-2023-0110122
 - "영상 부호화/복호화 방법 및 장치", KR-Application No. 10-2023- 0110123
-- "인터 예측에서 적응적 보간 필터 사용하는 비디오 부호화/복호화 방법 및 장치", KR-Application No. IP-2024-027-KR
+- "인터 예측에서 적응적 보간 필터 사용하는 비디오 부호화/복호화 방법 및 장치", KR-Application No. 10-2024-0006836
 
 ### Awards
 - 서울시와 ICT콤플렉스가 함께하는 ICT콕 AI 공모전 장려상, 과학기술정보통신부, 서울시 (Sep. 2020)
