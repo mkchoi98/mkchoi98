@@ -8,7 +8,7 @@
 - Future video coding
 
 ### Publication (SCI/SCIE)
-- Min-Kyeong Choi, Yung-Lyul Lee, "Adaptive Interpolation Filter Using Correlation for Inter Prediction", Volume 11, pp. 131017-131023, Nov. 2023
+- Min-Kyeong Choi, Yung-Lyul Lee, "Adaptive Interpolation Filter Using Correlation for Inter Prediction", IEEE Access, Volume 11, pp. 131017-131023, Nov. 2023
 
 ### Conference 
 - 최민경, 이영렬, "화면 간 예측을 위한 블록 특성을 고려한 보간 필터 적용", 2023년 한국방송·미디어공학회 추계학술대회, Seoul, Korea (Nov. 2023)
