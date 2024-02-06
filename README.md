@@ -1,21 +1,6 @@
-<!--
-**mkchoi98/mkchoi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Education
-- 세종대학교 컴퓨터공학과 학사 (2017.03~2022.02)
-- 세종대학교 컴퓨터공학과 석사 (2022.03~2022.02)
+- 세종대학교 컴퓨터공학과 학사 (Mar. 2017 - Feb. 2022)
+- 세종대학교 컴퓨터공학과 석사 (Mar. 2022 - Feb. 2024)
 
 ### Research Interests
 - Video compression
@@ -23,7 +8,7 @@ Here are some ideas to get you started:
 - Future video coding
 
 ### Publication (SCI/SCIE)
-- Min-Kyeong Choi, Yung-Lyul Lee, "Adaptive Interpolation Filter Using Correlation for Inter Prediction", IEEE ACCESS, (2023)
+- Min-Kyeong Choi, Yung-Lyul Lee, "Adaptive Interpolation Filter Using Correlation for Inter Prediction", Volume 11, pp. 131017-131023, Nov. 2023
 
 ### Conference 
 - 최민경, 이영렬, "화면 간 예측을 위한 블록 특성을 고려한 보간 필터 적용", 2023년 한국방송·미디어공학회 추계학술대회, Seoul, Korea (Nov. 2023)
