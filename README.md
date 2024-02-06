@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Education
 - 세종대학교 컴퓨터공학과 학사 (2017.03~2022.02)
-- 세종대학교 컴퓨터공학과 석서 (2022.03~2022.02)
+- 세종대학교 컴퓨터공학과 석사 (2022.03~2022.02)
 
 ### Research Interests
 - Video compression
