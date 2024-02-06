@@ -32,5 +32,5 @@
 ### Awards
 - 서울시와 ICT콤플렉스가 함께하는 ICT콕 AI 공모전 장려상, 과학기술정보통신부, 서울시 (Sep. 2020)
 - FINTECH-AI 해커톤 2위, 앵커밸류 (Sep. 2020)
-- 제 11회 창의설계경진대회 인기상, Sejong Universiy, Korea (Jun. 2021)
-- 제 11회 창의설계경진대회 최우수상, Sejong Universiy, Korea (Jun. 2021)
+- 제 11회 창의설계경진대회 인기상, Sejong Universiy (Jun. 2021)
+- 제 11회 창의설계경진대회 최우수상, Sejong Universiy (Jun. 2021)
