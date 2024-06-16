@@ -5,7 +5,6 @@
 ### Research Interests
 - Video compression
 - Image processing
-- Future video coding
 
 ### Publication (SCI/SCIE)
 - Min-Kyeong Choi, Yung-Lyul Lee, "Adaptive Interpolation Filter Using Correlation for Inter Prediction", IEEE Access, Volume 11, pp. 131017-131023, Nov. 2023
